@@ -58,3 +58,8 @@ Game Instructions:
 Video Demo:
 *******************
 https://www.youtube.com/watch?v=4QN3yPT52zk&feature=youtu.be
+
+************
+Code Review:
+*************
+https://www.youtube.com/watch?v=CtBSbO_05pI&t=519s
